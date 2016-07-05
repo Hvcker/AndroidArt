@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidArt.iml" filepath="$PROJECT_DIR$/AndroidArt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cardviewtest/cardviewtest.iml" filepath="$PROJECT_DIR$/cardviewtest/cardviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doc_base/doc_base.iml" filepath="$PROJECT_DIR$/doc_base/doc_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handler/handler.iml" filepath="$PROJECT_DIR$/handler/handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handler_test/handler_test.iml" filepath="$PROJECT_DIR$/handler_test/handler_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ipc/ipc.iml" filepath="$PROJECT_DIR$/ipc/ipc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testtitle/testtitle.iml" filepath="$PROJECT_DIR$/testtitle/testtitle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/view_event/view_event.iml" filepath="$PROJECT_DIR$/view_event/view_event.iml" />
+    </modules>
+  </component>
+</project>
